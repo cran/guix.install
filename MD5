@@ -1,0 +1,9 @@
+3a9ae738b4299d908aa463f37bf09c35 *DESCRIPTION
+a2b7dac8f4a506ae274887f5bd6bacea *NAMESPACE
+f991db8b97f89cc6bb11f32c07fc193e *R/guix.install.R
+1de576d2309b7acbfe42ebaf56132c94 *README
+954af724e2ba1a7ef18c4f40c817256c *build/partial.rdb
+d96dfe614711b300e5c3e2765053890e *inst/unitTests/test_guix.install.R
+d50d961acf774dcadd0acb12acddbb31 *man/guix.install-package.Rd
+d3ce289cea99732131ab07f18bfadfc2 *man/guix.install.Rd
+bb3fd018a31a61de2d8e6bd0e380a1a5 *tests/runUnitTests.R
